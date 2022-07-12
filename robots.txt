@@ -1,0 +1,13 @@
+User-agent: *
+
+Disallow: 
+Disallow: /policy.html
+Disallow: /mail.php
+Disallow: /phpmailer/
+Disallow: /*.pdf
+Allow: /*.css
+Allow: /*.js
+Allow: /*.jpg
+Allow: /*.png
+Allow: /*.gif
+Sitemap: https://svai365.ru/sitemap.xml
